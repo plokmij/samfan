@@ -3,32 +3,32 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Samfan P P',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Samfan P P | Flutter Developer`,
     // Description that goes under your name in main bio
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@samfaan`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/plokmij`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/samfaan/`,
     // Content of the About Me section
     about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Flamingo English App',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A learning app which is built with Flutter and Firebase.',
+        link: 'https://play.google.com/store/apps/details?id=com.flamingo.ml&hl=en_IN&gl=US',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Checkup Health',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'A medical checkup booking app built with Flutter and Firebase',
+        link: 'https://play.google.com/store/apps/details?id=com.checkupp.android&hl=en_IN&gl=US',
       },
       {
         name: 'Another Cool Project',
@@ -60,11 +60,11 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Dart, Golang, Python, Java, C, Node.js, Express.js',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'MongoDB, PostreSQL, MySQL, SQLite3',
       },
       {
         name: 'Other',
